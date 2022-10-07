@@ -1,4 +1,5 @@
 <?php include 'include/template_header.php'; ?>
+
 <section class="banner">
    <div class="banner-content">
       <h3 class="banner-title">
